@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Splender",
+            "request": "launch",
+            "mainClass": "Splender",
+            "projectName": "ObjectOrientedConcepts"
+        }
+    ]
+}
